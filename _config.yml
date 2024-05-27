@@ -1,0 +1,9 @@
+# Site Settings
+title: Padmavidhya Ellappan
+author: 
+  name: Padmavidhya Ellappan
+  email: padmavidhya@gmail.com
+description: My Cybersecurity Portfolio
+
+#Build Settings
+remote_theme: jekyll/minima
